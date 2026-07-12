@@ -23,6 +23,16 @@
 | [ai_infra](https://github.com/shaohjz/ai_infra) | AI Infra 学习计划与阶段交付 |
 | [shaohjz](https://github.com/shaohjz/shaohjz) | 本主页（Profile README） |
 
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shaohjz&show_icons=true&theme=tokyonight&hide_title=false&cache_seconds=86400" alt="GitHub Stats" width="420" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shaohjz&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Languages" width="320" />
+</p>
+
+若卡片加载失败，多半是统计服务限流，刷新或稍后再看。
+
 ## 一点说明
 
 我更关注把已有的后端与可观测性经验，迁移到 AI 推理平台 / GPU 资源相关方向，而不是从零改行纯算法或纯 kernel。
