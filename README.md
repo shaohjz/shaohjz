@@ -1,18 +1,24 @@
-## Hi there 👋
-![jizhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaohjz&show_icons=true&locale=cn&include_all_commits=true&count_private=true)
+# Hi, I'm shaohjz
 
+Backend engineer exploring **AI Infrastructure** — inference systems, GPU computing, and observable distributed services.
 
-<!--
-**shaohjz/shaohjz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Focus
 
-Here are some ideas to get you started:
+- Distributed backend & control-plane style systems
+- Observability: metrics, aggregation, alerting
+- Learning path: C++ / Linux → CUDA → inference services → multi-GPU
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Learning
+
+- [ai_infra](https://github.com/shaohjz/ai_infra) — structured plan from C++/Linux fundamentals to AI inference infra
+
+## Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaohjz&show_icons=true&theme=default&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaohjz&layout=compact&theme=default&hide_title=true)
+
+## Notes
+
+- Open to collaboration on learning projects and infra tooling
+- Profile README lives in this special repo: `shaohjz/shaohjz`
